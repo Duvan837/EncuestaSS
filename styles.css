@@ -32,7 +32,7 @@ body {
   #description {
     margin-bottom: 20px;
     font-size: 16px;
-    color: #e72222;
+    color: #7e2020;
   }
   
   /* Input Element Styles */
@@ -59,7 +59,7 @@ body {
   .input-element input:focus,
   .input-element select:focus,
   .input-element textarea:focus {
-    border-color: #007bff;
+    border-color: #33ff00;
     outline: none;
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
   }
